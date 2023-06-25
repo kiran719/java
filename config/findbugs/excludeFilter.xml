@@ -9,6 +9,9 @@
         <Class name="com.pubnub.api.models.consumer.objects_api.membership.PNMembership"/>
         <Field name="space"/>
         <Bug pattern="UWF_UNWRITTEN_FIELD"/>
+
+
+        "hey this is my first git class"
     </Match>
     <Match>
         <Class name="com.pubnub.api.models.consumer.objects_api.PNObject"/>
